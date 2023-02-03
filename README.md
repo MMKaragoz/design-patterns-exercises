@@ -7,3 +7,5 @@ I will code and share the exercises [here](https://github.com/javaturk/DesignPat
 - ### [Factory Method Exercise](https://github.com/MMKaragoz/design-patterns-exercises/tree/master/factory-method)
 
 - ### [Abstract Factory Exercise](https://github.com/MMKaragoz/design-patterns-exercises/tree/master/abstract-factory)
+
+- ### [Prototype Exercise](https://github.com/MMKaragoz/design-patterns-exercises/tree/master/prototype)
