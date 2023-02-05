@@ -11,3 +11,5 @@ I will code and share the exercises [here](https://github.com/javaturk/DesignPat
 - ### [Prototype Exercise](https://github.com/MMKaragoz/design-patterns-exercises/tree/master/prototype)
 
 - ### [Builder Exercise](https://github.com/MMKaragoz/design-patterns-exercises/tree/master/builder)
+
+- ### [Creational Patterns HW](https://github.com/MMKaragoz/design-patterns-exercises/tree/master/creational-patterns-hw)
